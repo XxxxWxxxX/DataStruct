@@ -5,7 +5,9 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cin_Cout", "Cin_Cout\Cin_Cout.vcxproj", "{959CCEE8-3574-4507-A136-6A57C0F7CE06}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FinancialManagement", "FinancialManagement\FinancialManagement.vcxproj", "{DC228BA2-EB71-4027-B56A-33443BC048DA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.1.FinancialManagement", "FinancialManagement\FinancialManagement.vcxproj", "{DC228BA2-EB71-4027-B56A-33443BC048DA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.2Doubles", "1.2Doubles\1.2Doubles.vcxproj", "{E7BC7D8E-CA94-4C7E-9A1D-30F861006278}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{DC228BA2-EB71-4027-B56A-33443BC048DA}.Release|x64.Build.0 = Release|x64
 		{DC228BA2-EB71-4027-B56A-33443BC048DA}.Release|x86.ActiveCfg = Release|Win32
 		{DC228BA2-EB71-4027-B56A-33443BC048DA}.Release|x86.Build.0 = Release|Win32
+		{E7BC7D8E-CA94-4C7E-9A1D-30F861006278}.Debug|x64.ActiveCfg = Debug|x64
+		{E7BC7D8E-CA94-4C7E-9A1D-30F861006278}.Debug|x64.Build.0 = Debug|x64
+		{E7BC7D8E-CA94-4C7E-9A1D-30F861006278}.Debug|x86.ActiveCfg = Debug|Win32
+		{E7BC7D8E-CA94-4C7E-9A1D-30F861006278}.Debug|x86.Build.0 = Debug|Win32
+		{E7BC7D8E-CA94-4C7E-9A1D-30F861006278}.Release|x64.ActiveCfg = Release|x64
+		{E7BC7D8E-CA94-4C7E-9A1D-30F861006278}.Release|x64.Build.0 = Release|x64
+		{E7BC7D8E-CA94-4C7E-9A1D-30F861006278}.Release|x86.ActiveCfg = Release|Win32
+		{E7BC7D8E-CA94-4C7E-9A1D-30F861006278}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
