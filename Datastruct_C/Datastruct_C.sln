@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cin_Cout", "Cin_Cout\Cin_Cout.vcxproj", "{959CCEE8-3574-4507-A136-6A57C0F7CE06}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FinancialManagement", "FinancialManagement\FinancialManagement.vcxproj", "{DC228BA2-EB71-4027-B56A-33443BC048DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{959CCEE8-3574-4507-A136-6A57C0F7CE06}.Release|x64.Build.0 = Release|x64
 		{959CCEE8-3574-4507-A136-6A57C0F7CE06}.Release|x86.ActiveCfg = Release|Win32
 		{959CCEE8-3574-4507-A136-6A57C0F7CE06}.Release|x86.Build.0 = Release|Win32
+		{DC228BA2-EB71-4027-B56A-33443BC048DA}.Debug|x64.ActiveCfg = Debug|x64
+		{DC228BA2-EB71-4027-B56A-33443BC048DA}.Debug|x64.Build.0 = Debug|x64
+		{DC228BA2-EB71-4027-B56A-33443BC048DA}.Debug|x86.ActiveCfg = Debug|Win32
+		{DC228BA2-EB71-4027-B56A-33443BC048DA}.Debug|x86.Build.0 = Debug|Win32
+		{DC228BA2-EB71-4027-B56A-33443BC048DA}.Release|x64.ActiveCfg = Release|x64
+		{DC228BA2-EB71-4027-B56A-33443BC048DA}.Release|x64.Build.0 = Release|x64
+		{DC228BA2-EB71-4027-B56A-33443BC048DA}.Release|x86.ActiveCfg = Release|Win32
+		{DC228BA2-EB71-4027-B56A-33443BC048DA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
